@@ -4,3 +4,8 @@
 *.csv
 *.gz
 *.tsv
+Scripts/.ipynb_checkpoints/autoencoders-checkpoint.ipynb
+*.7z
+Scripts/.ipynb_checkpoints/
+*.xml
+*.iml
