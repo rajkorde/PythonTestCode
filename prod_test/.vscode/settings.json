@@ -1,3 +1,11 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "C:\\Users\\rajkorde.NTDEV\\.virtualenvs\\prod_test-8V-0yekD\\Scripts\\python.exe"
+=======
+    "python.pythonPath": "/home/rajkorde/anaconda3/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "autopep8"
+>>>>>>> ade2ffe384c1ac92e73b68491ab6eb0e16fbc4a4
 }
