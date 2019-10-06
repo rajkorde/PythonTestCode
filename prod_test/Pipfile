@@ -9,6 +9,10 @@ jupyter = "*"
 ipykernel = "*"
 
 [packages]
+scikit-learn = "*"
+pandas = "*"
+numpy = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.7"

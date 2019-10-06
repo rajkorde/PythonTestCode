@@ -1,7 +1,7 @@
 {
-    "python.pythonPath": "C:\\Users\\rajkorde.NTDEV\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
+    "python.pythonPath": "/home/rajkorde/.local/share/virtualenvs/prod_test-9l59g-Tt/bin/python",
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true,
+    "python.linting.enabled": false,
     "python.formatting.provider": "autopep8"
 }
